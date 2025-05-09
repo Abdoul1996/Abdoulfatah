@@ -1,18 +1,19 @@
 # 👋 Hi, I'm Abdoul
 
 🎓 Graduate Researcher @ [CodeLab, SFSU](https://pleunipennings.wordpress.com/)  
-🧬 ML for Biology | Computational Research | PhD-Bound  
-🔬 Bridging Computer Science & Biology through AI
+🧬 ML for Biology | Computational Research | Biotech Enthusiast  
+🔬 Bridging Computer Science & Biology with AI
 
 ---
+
 ## 💡 About Me
 
 I'm a computer scientist and graduate researcher at [CodeLab](https://pleunipennings.wordpress.com/) at San Francisco State University, where I focus on applying machine learning to real-world biomedical problems.
 
-I'm deeply passionate about the intersection of computer science and biology, and I’m particularly excited about working in the biotech industry—where I can contribute to innovative research, tools, and solutions that improve lives. 
+I'm deeply passionate about the intersection of computer science, biology, and mathematics. I'm especially excited about contributing to the biotech industry—helping build innovative research tools and impactful health solutions. I've balanced academics with part-time work while earning a competitive NIH fellowship, which supported my research and professional development in computational biology.
 
-As an immigrant and first-generation researcher, I’ve overcome challenges while balancing part-time work and academics. With support from private and federal training fellowships, I’ve built a strong foundation in computational thinking and research. I’m committed to collaboration, mentorship, and using AI to drive impact in health and life sciences.
 ---
+
 ## 🛠️ Tech Stack
 
 ### Languages  
@@ -30,7 +31,6 @@ As an immigrant and first-generation researcher, I’ve overcome challenges whil
 ![Biopython](https://img.shields.io/badge/Biopython-228B22?style=for-the-badge)
 ![SAMtools](https://img.shields.io/badge/SAMtools-4169E1?style=for-the-badge)
 ![BCFtools](https://img.shields.io/badge/BCFtools-1E90FF?style=for-the-badge)
-![PLINK](https://img.shields.io/badge/PLINK-483D8B?style=for-the-badge)
 
 ### Tools & Technologies  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -38,16 +38,18 @@ As an immigrant and first-generation researcher, I’ve overcome challenges whil
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
+
 ## 🔬 Recent Projects
 
 - 📦 [database-mongodb](https://pypi.org/project/database-mongodb/): PyPI package for automated MongoDB operations  
 - ⚡ [Energy Prediction ML](https://github.com/Abdoul1996/appliance-power-ml): Regression models to forecast appliance energy usage  
-- 🧪 Antibiotic resistance prediction in *E. coli* using pan-genomics and ML
----
-## 🤝 Let's Connect!
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/abdoul-abdillahi/)  
-- 📧 Email: abdoulsfsu@gmail.com  
-- 🧪 [My Research](https://www.researchgate.net/profile/Abdoul-Abdillahi)
 ---
 
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdoul-abdillahi/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdoul1996)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdoulsfsu@gmail.com)
+
+---
